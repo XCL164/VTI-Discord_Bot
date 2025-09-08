@@ -19,5 +19,5 @@ The source code and implementation details are not publicly available.
 Only the functionality and behavior of the bot are described here for documentation purposes.  
 
 ## 🎯 Purpose
-The goal of this bot is to make Smartschool class information easily accessible for students and teachers directly in Discord.  
+The goal of this bot is to make Smartschool class information easily accessible for students directly in Discord.  
 Instead of manually checking Smartschool, the bot keeps everyone updated automatically with clear embeds and interactive options.  
