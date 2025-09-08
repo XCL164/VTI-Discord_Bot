@@ -1,26 +1,26 @@
 # Smartschool API → VTI Discord Bot
 
-Deze bot controleert elke **5 seconden** de Smartschool-klassen en publiceert deze automatisch in een **Discord server** via een embed met knoppen.
+This bot checks the **Smartschool classes every 5 seconds** and automatically publishes them in a **Discord server** using an embed with interactive buttons.
 
-## 📌 Functies
-- Connectie met **Smartschool API**
-- Controle elke **5 seconden** op wijzigingen in klassen
-- Automatisch posten van updates in **Discord**
-- Mooie **Discord embed** weergave
-- **Knoppen** voor interactie (bv. refresh, details, …)
+## 📌 Features
+- Connects to the **Smartschool API**
+- Checks for updates in classes every **5 seconds**
+- Automatically posts updates in **Discord**
+- Clean **Discord embed** display
+- **Buttons** for interaction (e.g., refresh, details, …)
 
-## ⚙️ Vereisten
+## ⚙️ Requirements
 - Node.js 18+
-- Een Smartschool API key
-- Een Discord bot token
+- A Smartschool API key
+- A Discord bot token
 
-## 🚀 Installatie
+## 🚀 Installation
 ```bash
-# Repo clonen
-git clone https://github.com/jouwnaam/smartschool-discord-bot.git
+# Clone the repository
+git clone https://github.com/yourname/smartschool-discord-bot.git
 
-# Map openen
+# Enter the project folder
 cd smartschool-discord-bot
 
-# Dependencies installeren
+# Install dependencies
 npm install
