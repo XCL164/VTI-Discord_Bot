@@ -1,22 +1,29 @@
 # Smartschool API → VTI Discord Bot
 
-This bot checks the **Smartschool classes every 20 minutes** and automatically publishes them in a **Discord server** using an embed with interactive buttons.
+Deze bot controleert de ****Smartschool-klassen elke 20 minuten**** en publiceert ze automatisch in een ****Discord-server**** via een embed met interactieve knoppen.
 
-## 🎯 Purpose
-The goal of this bot is to make Smartschool class information easily accessible for students directly in Discord.  
-Instead of manually checking Smartschool, the bot keeps everyone updated automatically with clear embeds and interactive options.  
+## 🎯 Doel
+Het doel van deze bot is om Smartschool-klasinformatie rechtstreeks in Discord eenvoudig toegankelijk te maken voor klasgenoten.  
+In plaats van Smartschool handmatig te controleren, houdt de bot iedereen automatisch op de hoogte met duidelijke embeds en meerdere opties.  
 
-## 📌 Features
-- Connects to the **Smartschool API**
-- Checks for updates in classes every **20 minutes**
-- Automatically posts updates in **Discord**
-- Clean and modern **Discord embed** display
-- **Interactive buttons** for quick actions ( klassen, lessenroosters, ...)
+## 📌 Functionaliteiten
+Verbindt met de ****Smartschool API****
+Controleert elke ****20 minuten**** op updates in klassen
+Post automatisch updates in ****Discord****
+Duidelijke en moderne ****Discord-embed**** weergave
+****Interactieknoppen**** voor snelle acties (klassen, lessenroosters, leerkrachten, ...)
 
-## 🖥️ Hosting & Development
-This bot is **hosted and built using BotGhost Premium**, which allows the bot to run 24/7 without the need for self-hosting.  
-The logic is fully integrated into BotGhost workflows and custom API calls.  
+## 👻 Botghost & hosting
+Deze bot wordt ****gehost en ontwikkeld via BotGhost (👑 • Premium)****. Deze bot is betalend, waardoor hij 24/7 kan draaien zonder nood aan zelfhosting.  
+De volledige logica is geïntegreerd in BotGhost-workflows en aangepaste API-calls.
+
+Website: www.botghost.com
+
+Premium functies: https://docs.botghost.com/premium/our-premium-features
 
 ## 🔒 Code & Privacy
-⚠️ **Important:** This project is **private** and **not open-source**.  
-The source code and implementation details are not publicly available.  
+⚠️ ****Belangrijk:**** Dit project is ****privé**** en ****niet open-source****.  
+De broncode en implementatiedetails zijn niet openbaar beschikbaar.
+De code wordt veilig opgeslagen in een apart project.
+
+## 
